@@ -9,7 +9,7 @@ deliverables: 'A GitHub Issue'
 ## Overview
 
 - *Fork this repository.*
-- Using the included `wireframe.png` (showing a final website design), sketch the website you’re about to code.
+- Using the included `mockup.pdf` (showing a final website design), sketch the website you’re about to code.
 - Include the following things in your sketch:
   1. HTML tags & semantics
   1. Content prioritization (grey box method or numbering method)
